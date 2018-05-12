@@ -1,0 +1,24 @@
+_repo: Souvenir-of-Gay-Head--Indelible-Photographs_33108
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33108-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chamberlain, J. N.
+    gutenberg_agent_id: '36210'
+    url: http://www.gutenberg.org/2009/agents/36210
+description: ''
+gutenberg_issued: '2010-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33108'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gay Head (Mass.) -- Pictorial works'
+- !lcc 'F001'
+title: 'Souvenir of Gay Head: Indelible Photographs'
+url: http://www.gutenberg.org/ebooks/33108
